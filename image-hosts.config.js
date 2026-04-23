@@ -17,6 +17,6 @@ export const imageHosts = [
     },
     {
         protocol: 'https',
-        hostname: 'img.rocket.new',
+        hostname: 'picsum.photos',
     },
 ];
